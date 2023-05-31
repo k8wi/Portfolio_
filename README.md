@@ -1,6 +1,7 @@
 # Portfolio Website
+![1](https://github.com/k8wi/Portfolio/assets/95972832/6aa074c2-cbef-4db5-b732-5640ea13caba)
 
-![1](https://github.com/k8wi/Portfolio/assets/95972832/31184fa7-dba7-4a68-8daa-78c5a9eade4a)
+
 
 Built using:
 
