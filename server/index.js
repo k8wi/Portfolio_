@@ -5,6 +5,7 @@ const nodemailer = require("nodemailer");
 
 // server used to send send emails
 const app = express();
+const path = require('path');
 app.use(express.static(path.resolve(__dirname,'../build')))
 app.use(cors());
 app.use(express.json());
