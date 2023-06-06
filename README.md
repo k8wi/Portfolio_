@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website <br/>
-  <a href="https://portfolio-lyart-chi-38.vercel.app" target="_blank">thushar.tech</a>
+  <a href="https://portfolio-thushar.vercel.app" target="_blank">thushar.tech</a>
 </h2>
 
 
